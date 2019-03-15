@@ -1,12 +1,10 @@
-
 ---
-title: "Curriculum vitae"
-description: Curriculim vitae
-date: 2019/15/3
-layout: pdf
-categories: none
+layout: archive
+title: "CV"
 permalink: /cv/
 author_profile: true
+redirect_from:
+  - /resume
 ---
 
 Test
