@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michal Farkas / Homepage"
+title                    : "Michal Farkas | Homepage"
 title_separator          : "-"
 name                     : &name "Michal Farkas"
 description              : &description "PhD student at Slovak University of Technology"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Michal Farkas"
-  avatar           : "IMG_20180722_170727.jpg"
+  avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Bratislava, Slovakia"
   employer         :
