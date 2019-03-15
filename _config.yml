@@ -1,4 +1,4 @@
-2# Welcome to Jekyll!
+# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michal Farkas | Homepage"
+title                    : "Michal Farkaš | Homepage"
 title_separator          : "-"
 name                     : &name "Michal Farkas"
-description              : &description "PhD student at Slovak University of Technology"
+description              : &description "personal description"
 url                      : https://michalfarkas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "is it stupid?"
+repository               : "michalfarkas/michalfarkas.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Michal Farkas"
+  name             : "Michal Farkaš"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD student at Slovak University of Technology"
   location         : "Bratislava, Slovakia"
   employer         :
-  googlescholar    : "https://scholar.google.sk/citations?hl=en&user=4_yKRUAAAAAJ"
-  email            : "michal.farkas@stuba.sk"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=4_yKRUAAAAAJ"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
