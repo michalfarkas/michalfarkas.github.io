@@ -8,3 +8,4 @@ redirect_from:
 ---
 
 ![](https://michalfarkas.github.com/files/CV-Europass-20190315-Farkaš-EN-1.jpg)
+![](https://michalfarkas.github.com/files/CV-Europass-20190315-Farkaš-EN-2.jpg)
