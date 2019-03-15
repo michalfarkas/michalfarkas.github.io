@@ -6,8 +6,5 @@ redirect_from:
   - /about.html
 ---
 
-About me
-======
-
-Basically, I am a god. Granted, minor one but still
+Yaba daba dooo
 
