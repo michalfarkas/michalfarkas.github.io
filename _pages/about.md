@@ -16,4 +16,4 @@ My theses:
 	* done in Theano
 * Dissertation thesis: Linguistic representation and Dialogue systems 
 	* work in progress
-	* Pytorch
+	* Pytorch as the main framework
